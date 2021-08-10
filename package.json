@@ -16,7 +16,6 @@
         "url": "https://github.com/omacranger"
     },
     "files": [
-        "dist"
     ],
     "dependencies": {
         "mkdirp": "^1.0.4",
